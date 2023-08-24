@@ -1,0 +1,246 @@
+{
+  "id": "ab764d05-9b68-3189-8e57-6f3ac8d41fc9",
+  "entityType": "User",
+  "profileFor": "Self",
+  "gender": "Male",
+  "mobileNumber": "7014119782",
+  "emailId": "maheshbishnoi19322@gmail.com",
+  "password": "12334353",
+  "profileId": "BI5RQ62U",
+  "profile": {
+    "id": "8833c191-e798-4fa5-8834-c13c04716492",
+    "entityType": "Profile",
+    "introduction": "Hi, I am Manesh, From Jodhpur osian, Currently living in Kota",
+    "name": "Manesh Bishnoi",
+    "dateOfBirth": "2001-08-07",
+    "phoneNumber": "9983678652",
+    "whatsAppOnSameNumber": false,
+    "whatsAppNumber": "7302201601",
+    "gender": "Male",
+    "height": "5Ft 10Inch",
+    "brideGroomAddress": {
+      "id": null,
+      "entityType": "Address",
+      "localAddress": "Talwandi, Kota",
+      "district": "Kota",
+      "state": "Rajasthan",
+      "country": "India",
+      "userID": null
+    },
+    "liveWithFamily": false,
+    "familyAddress": {
+      "id": null,
+      "entityType": "Address",
+      "localAddress": "Samrou",
+      "district": "Jodhpur",
+      "state": "Rajasthan",
+      "country": "India",
+      "userID": null
+    },
+    "anyDisAbility": "No",
+    "disability": null,
+    "FamilyContactNumber": "987323082",
+    "nanihalAddress": "Majuo ki dhani , Lohawat",
+    "nahihalCast": "Manju",
+    "martialStatus": "Never Married",
+    "motherTongue": "Marwari",
+    "caste": {
+      "id": "e59e3b25-e06d-4bf5-b2ed-2aec0be275d6",
+      "entityType": "Caste",
+      "mainCaste": "BISHNOI",
+      "castOfFather": "Esharwal",
+      "casteOfMother": null,
+      "casteOfGrandMother": null,
+      "casteOfMaternalGrandMother": null,
+      "updatedAt": "2023-04-24T17:01:54.687",
+      "userID": "ab764d05-9b68-3189-8e57-6f3ac8d41fc9"
+    },
+    "educationAndCareers": {
+      "id": "9df819a1-debd-4cd2-9ca5-eba308959f9a",
+      "entityType": "EducationAndCareer",
+      "highestEducation": "B.Tech",
+      "collage": "IIT Bombay",
+      "sectorInEmployed": "Private Sector",
+      "occupation": "Engineering Lead",
+      "annualIncome": "Rs 50-92 Lakh",
+      "aboutMyEducation": "I did my graduation in Computer science from IIT Bombay, I am currently working as lead engineer in Bangalore based MNC",
+      "updatedAt": "2023-04-24T17:01:54.693",
+      "userID": "ab764d05-9b68-3189-8e57-6f3ac8d41fc9"
+    },
+    "email": "maheshbishnoi19322@gmail.com",
+    "age": 21,
+    "familyDetail": {
+      "id": "6d9380a7-042f-4ad5-963f-14ab99fa558e",
+      "entityType": "FamilyDetails",
+      "fatherName": "Mangi lal",
+      "motherName": "Radha Devi",
+      "fatherOccupation": "Army Retired",
+      "motherOccupation": "House wife",
+      "noOfBrothers": 2,
+      "noOfMarriedBrother": 0,
+      "noOfSisters": 0,
+      "noOfMarriedSisters": 0,
+      "familyStatus": "Upper Class",
+      "nativeCity": "Osian",
+      "nativeState": "Rajasthan",
+      "familyType": "Nuclear Family",
+      "familyValues": "Traditional",
+      "otherRelatives": [
+        {
+          "relativesName": "Jai ram ji",
+          "relativeAddress": "Noshar",
+          "relatedTo": "Maa",
+          "relationSince": "2004",
+          "relativeCaste": "Godara"
+        }
+      ],
+      "aboutFamily": "I belongs to Army personnol, Upper class, orthodox family, living in village",
+      "updatedAt": "2023-04-24T17:01:54.697",
+      "userID": "ab764d05-9b68-3189-8e57-6f3ac8d41fc9"
+    },
+    "preferredPartnerChoice": {
+      "id": "dce4a8bb-1bff-471f-a50c-d3d2c01a1d24",
+      "entityType": "PreferredPartnerChoice",
+      "minAge": 18,
+      "maxAge": 24,
+      "minHeight": "5.5",
+      "maxHeight": "5.5",
+      "martialStatus": [
+        "Never Married"
+      ],
+      "caste": [
+        "Khileri",
+        "Janghu"
+      ],
+      "education": [
+        "B.Com",
+        "B.Tech",
+        "C.A"
+      ],
+      "occupation": [
+        "Civil Service",
+        "Private Sector",
+        "Bussiness/Self Employed"
+      ],
+      "motherTongue": [
+        "Hindi",
+        "Marwari",
+        "Haryanvi"
+      ],
+      "annualIncome": "INR 15-50 Lakh",
+      "districts": [
+        "Jodhpur",
+        "Bikaner",
+        "Jalore"
+      ],
+      "country": "India",
+      "userID": "ab764d05-9b68-3189-8e57-6f3ac8d41fc9"
+    },
+    "lifeStyle": {
+      "id": "344a441a-213d-4cf8-a43d-487168f1e01b",
+      "entityType": "LifeStyle",
+      "diet": "Veg",
+      "languageSpeak": [
+        "Hindi",
+        "English"
+      ],
+      "smokes": "YES",
+      "drink": "NO",
+      "cookingFood": "Some time",
+      "sports": [
+        "Cricket",
+        "Football"
+      ],
+      "exercise": "Yes/No/SomeTime",
+      "music": [
+        "Classical-Hindusthani",
+        "Old Films",
+        "Bhajan",
+        "Hip-hop,Rap",
+        "Latest Filmi Songs"
+      ],
+      "hobbies": [
+        "Blogging",
+        "Health & Fitness",
+        "Politics",
+        "Social Service",
+        "Sports indoor",
+        "Writting"
+      ],
+      "updatedAt": "2023-04-24T17:01:54.704",
+      "userID": "ab764d05-9b68-3189-8e57-6f3ac8d41fc9"
+    },
+    "profileId": "BI5RQ62U",
+    "compatibilityScore": 0,
+    "isPremiumProfile": false,
+    "profilePhotoUrls": null,
+    "picturePrivacy": "ALL_MEMBERS",
+    "getDocumentsPhotos": null,
+    "kycVerifications": null,
+    "enableTrustBadge": false,
+    "interestedMatch": null,
+    "last_seen_time": "2023-04-24T17:01:54.687",
+    "last_seen_status": "Online",
+    "blockedProfiles": [
+      "fac8966a-8374-4203-a092-6e13e9174828"
+    ],
+    "savedSearchList": [
+      {
+        "id": "31c9523a-c30d-47f0-b510-8b0f2b5a1c65",
+        "entityType": "SavedSearch",
+        "searchName": "search8",
+        "minAge": "18",
+        "maxAge": "24",
+        "minHeight": "5.5",
+        "maxHeight": "6.5",
+        "maritalStatus": null,
+        "casts": [
+          "Janghu",
+          "Godara"
+        ],
+        "annualIncome": "INR 15-50 Lakh",
+        "education": [
+          "B.Com",
+          "B.Tech",
+          "C.A"
+        ],
+        "sectorsInEmployed": [
+          "Civil Service",
+          "Private Sector",
+          "Bussiness/Self Employed"
+        ],
+        "motherTongue": [
+          "Hindi",
+          "Marwari",
+          "Haryanvi"
+        ],
+        "districts": [
+          "Jodhpur",
+          "Bikaner",
+          "Jalore"
+        ],
+        "showOnlyPremiumProfileWithPhotos": true,
+        "userID": "ab764d05-9b68-3189-8e57-6f3ac8d41fc9"
+      }
+    ],
+    "shortlistedProfiles": [
+      "ba205dd2-7f48-4e47-99fe-cb4e1e5e7b8b"
+    ],
+    "interestedMatchRequest": null,
+    "galleryRequests": null,
+    "viewedProfiles": [
+      "ba205dd2-7f48-4e47-99fe-cb4e1e5e7b8b"
+    ],
+    "createdAt": null,
+    "socialMediaProfiles": null,
+    "premiumProfile": false,
+    "userID": "ab764d05-9b68-3189-8e57-6f3ac8d41fc9"
+  },
+  "isActive": true,
+  "score": 0,
+  "isVerified": false,
+  "createdAt": "2023-04-24T16:55:58.071",
+  "version": 1,
+  "verified": false,
+  "userID": null
+}
