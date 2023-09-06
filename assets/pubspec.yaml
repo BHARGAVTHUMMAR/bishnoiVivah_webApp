@@ -91,6 +91,7 @@ dependencies:
   mirrorfly_plugin: ^0.0.10-beta
   firebase_analytics: ^10.4.4
   upgrader: ^6.5.0
+  url_strategy: ^0.2.0
 
 dependency_overrides:
   visibility_detector: ^0.2.2
